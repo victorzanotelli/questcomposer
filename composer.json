@@ -1,0 +1,15 @@
+{
+    "name": "wild/app",
+    "autoload": {
+        "psr-4": {
+            "Wild\\App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Victor ANCLIN",
+            "email": "victor.zano@gmail.com"
+        }
+    ],
+    "require": {}
+}
